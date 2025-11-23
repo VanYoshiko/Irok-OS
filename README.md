@@ -1,0 +1,131 @@
+# Myconfigs
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# myconfigs inported with a-shell
+# Irok-OS imported with a-shell
+<<<<<<< HEAD
+<<<<<<< HEAD
+# Irok-OS imported with a-shell
+# Irok-OS imported with a-shell
+# Irok-OS imported with a-shell
+# Irok-OS imported with a-shell
+# Irok-OS imported with a-shell
+=======
+>>>>>>> FETCH_HEAD
+# Irok-OS imported with a-shell
+=======
+>>>>>>> FETCH_HEAD
+# Irok-OS imported with a-shell
+# Irok-OS imported with a-shell
+# Irok-OS imported with a-shell
+# Irok-OS imported with a-shell
+# Irok-OS imported with a-shell
+# Irok-OS imported with a-shell
+# Irok-OS imported with a-shell
+# Irok-OS imported with a-shell
+# Irok-OS imported with a-shell
+# Irok-OS imported with a-shell
+# Irok-OS imported with a-shell
+# Irok-OS imported with a-shell
+# Irok-OS imported with a-shell
+# Irok-OS imported with a-shell
+# Irok-OS imported with a-shell
+# Irok-OS
+# Irok-OS
+# Irok-OS
+# Irok-OS
+# Irok-OS
